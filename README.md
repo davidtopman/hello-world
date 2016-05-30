@@ -1,2 +1,7 @@
 # hello-world
-Try to test it 
+
+Hi there I'm new in this project:
+
+Hello 
+
+is Me
